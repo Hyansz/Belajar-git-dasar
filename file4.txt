@@ -1,2 +1,2 @@
 menambahkan feature 4
-menambahkan feature/c
+buat feature/c
