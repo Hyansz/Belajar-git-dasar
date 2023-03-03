@@ -6,3 +6,5 @@ fiature/rebase
 =======
 fiature/d
 >>>>>>> feature/rebase
+
+feature/merge-rebase
